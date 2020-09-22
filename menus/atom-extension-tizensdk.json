@@ -5,28 +5,44 @@
         "label": "Tizen SDK",
         "submenu": [
           {
-            "label": "Create Project",
-            "command": "tizen-SDK:createProject"
+            "label": "Tizen TV: Create Web Project",
+            "command": "Tizen TV: Create Web Project"
           },
           {
-            "label": "Build Package",
-            "command": "tizen-SDK:buildPackage"
+            "label": "Tizen TV: Build Signed Package",
+            "command": "Tizen TV: Build Signed Package"
           },
           {
-            "label": "Run Application",
-            "command": "tizen-SDK:runApplication"
+            "label": "Tizen TV: Launch Application",
+            "command": "Tizen TV: Launch Application"
           },
           {
-            "label": "Debug Application",
-            "command": "tizen-SDK:debugApplication"
+            "label": "Tizen TV: Debug Application",
+            "command": "Tizen TV: Debug Application"
           },
           {
-            "label": "Certificate Manager",
-            "command": "tizen-SDK:certificateManager"
+            "label": "Tizen TV: Run Certificate Manager",
+            "command": "Tizen TV: Run Certificate Manager"
           },
           {
-            "label": "SDB Command Prompt",
-            "command": "tizen-SDK:SDBCommandPrompt"
+            "label": "Tizen TV: SDB Command Prompt",
+            "command": "Tizen TV: SDB Command Prompt"
+          },
+          {
+            "label": "Tizen TV: Wits Start (Install and Live reload)",
+            "command": "Tizen TV: Wits Start (Install and Live reload)"
+          },
+          {
+            "label": "Tizen TV: Wits Watch (Live reload)",
+            "command": "Tizen TV: Wits Watch (Live reload)"
+          },
+          {
+            "label": "Tizen TV: Wits Stop",
+            "command": "Tizen TV: Wits Stop"
+          },
+          {
+            "label": "Tizen TV: Excluding files",
+            "command": "Tizen TV: Excluding files"
           }
         ]
       }
@@ -40,28 +56,40 @@
           "label": "Tizen SDK",
           "submenu": [
             {
-              "label": "Create Project",
-              "command": "tizen-SDK:createProject"
+              "label": "Tizen TV: Create Web Project",
+              "command": "Tizen TV: Create Web Project"
             },
             {
-              "label": "Build Package",
-              "command": "tizen-SDK:buildPackage"
+              "label": "Tizen TV: Build Signed Package",
+              "command": "Tizen TV: Build Signed Package"
             },
             {
-              "label": "Run Application",
-              "command": "tizen-SDK:runApplication"
+              "label": "Tizen TV: Launch Application",
+              "command": "Tizen TV: Launch Application"
             },
             {
-              "label": "Debug Application",
-              "command": "tizen-SDK:debugApplication"
+              "label": "Tizen TV: Debug Application",
+              "command": "Tizen TV: Debug Application"
             },
             {
-              "label": "Certificate Manager",
-              "command": "tizen-SDK:certificateManager"
+              "label": "Tizen TV: Run Certificate Manager",
+              "command": "Tizen TV: Run Certificate Manager"
             },
             {
-              "label": "SDB Command Prompt",
-              "command": "tizen-SDK:SDBCommandPrompt"
+              "label": "Tizen TV: SDB Command Prompt",
+              "command": "Tizen TV: SDB Command Prompt"
+            },
+            {
+              "label": "Tizen TV: Wits Start (Install and Live reload)",
+              "command": "Tizen TV: Wits Start (Install and Live reload)"
+            },
+            {
+              "label": "Tizen TV: Wits Watch (Live reload)",
+              "command": "Tizen TV: Wits Watch (Live reload)"
+            },
+            {
+              "label": "Tizen TV: Wits Stop",
+              "command": "Tizen TV: Wits Stop"
             }
           ]
         }

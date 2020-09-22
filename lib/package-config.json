@@ -17,8 +17,8 @@
             "string",
             "null"
         ],
-        "default": "255.255.255.255:26101",
-        "description": "Set the TV IP to connect, default remote port is 26101."
+        "default": null,
+        "description": "Set the TV IP to connect, eg: xxx.xxx.xxx.xxx."
     },
     "tizentv.simulatorLocation": {
         "type": [
@@ -51,5 +51,21 @@
         ],
         "default": "INFO",
         "description": "Select log print level: INFO, WARNING, ERROR, FATAL, default is INFO."
+    },
+    "tizentv.hostAddress": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Configure Host PC IP Address, eg: xxx.xxx.xxx.xxx."
+    },
+    "tizentv.excludeFiles": {
+        "type": [
+            "string",
+            "null"
+        ],
+        "default": null,
+        "description": "Set the files or folder which are excluded in widget package, eg: C:\\\\workspace\\\\projectName\\\\ignoreFile1.txt, C:\\\\workspace\\\\projectName\\\\ignoreFile2"
     }
 }
