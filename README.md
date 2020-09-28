@@ -12,13 +12,13 @@
 Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 
 <p align="center">
-<img src="https://github.com/Samsung/atom-tizentv/blob/master/assets/Features01.png?raw=true">
-<img src="https://github.com/Samsung/atom-tizentv/blob/master/assets/Features02-2.png?raw=true">
+<img src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/Features01.png?raw=true">
+<img src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/Features02-2.png?raw=true">
 </p>
 
 ## Gettring started
 >Install:<br>
->Copy “atom-tizentv” to specified path:<br>
+>Copy “atom-tizentv-2” to specified path:<br>
 
 ````
 For Windows :   C:\Users\${Your user name}\.atom\packages
@@ -34,13 +34,13 @@ For Ubuntu :       /home/${Your User Name}/.atom/packages
 -   Select the function in the list
 
 <p align="center">
-<img height ="360" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/use1.png">
+<img height ="360" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/use1.png">
 </p>
 
 ### Step2: Trigger function from menu
 -   Click the entry through menu ‘Packages -> Tizen SDK’
 <p align="center">
-<img height ="600" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/use2.png">
+<img height ="600" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/use2.png">
 </p>
 
 ### Step3: Trigger function with right click menu
@@ -48,13 +48,13 @@ For Ubuntu :       /home/${Your User Name}/.atom/packages
 -   Find the entry ‘Tizen SDK’
 
 <p align="center">
-<img height ="240" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/use3.png">
+<img height ="240" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/use3.png">
 </p>
 
 
 ## Supported features
 <p align="center">
-<img height ="240" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/features.png">
+<img height ="240" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/features.png">
 </p>
 
 -   Create Project
@@ -81,25 +81,25 @@ For Ubuntu :       /home/${Your User Name}/.atom/packages
 
 ## Configure TV
 >**Setting parameters for Tizen SDK**
-<img height ="600" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/config.png">
+<img height ="600" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/config.png">
 </p>
 
 ### Configuration for APP running
 >To run App left">
-<img height ="70" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/config1.png">
+<img height ="70" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/config1.png">
 </p>
 >To run App on Tizen TV Emulator, below item must be set:
 <p align="left">
-<img height ="70" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/config2.png">
+<img height ="70" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/config2.png">
 </p>
 
 ### Configuration for APP debugging
 >Atom IDE support debugging web app with chrome DevTools (on Ubuntu, Chromium is supported), chrome install path must be set according to your system environment:
 <p align="left">
-<img height ="70" src="https://github.com/Samsung/atom-tizentv/blob/master/assets/config3.png">
+<img height ="70" src="https://github.com/Samsung/atom-tizentv-2/blob/master/assets/config3.png">
 </p>
 
 ## F.A.Q
 =======
-# atom-tizentv
+# atom-tizentv-2
 There’s new Atom extension package released for developing Samsung Tizen TV applications.  Developers can get start &amp; develop TV apps quickly, and also get the same development experience on all platforms.

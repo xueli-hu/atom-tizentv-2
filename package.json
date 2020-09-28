@@ -1,5 +1,5 @@
 {
-  "name": "atom-tizentv",
+  "name": "atom-tizentv-2",
   "main": "./lib/atom-extension-tizensdk",
   "version": "0.4.0",
   "description": "'tizensdk' is a lightweight dispatch of Tizen Studio, which provides extensible IDE to develop/debug tizen apps in Atom.",
@@ -9,7 +9,7 @@
     "tizentv",
     "sdk"
   ],
-  "repository": "https://github.com/Samsung/atom-tizentv",
+  "repository": "https://github.com/Samsung/atom-tizentv-2",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
